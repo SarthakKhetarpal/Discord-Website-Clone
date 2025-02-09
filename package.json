@@ -1,0 +1,14 @@
+{
+  "name": "dicord-clone",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.7.3"
+  },
+  "description": ""
+}
